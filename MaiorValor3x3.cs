@@ -1,7 +1,6 @@
 using System;
 
-namespace Atividade7
-{
+
 	class Program
 	{
 		public static void Main(string[] args)
@@ -47,4 +46,4 @@ namespace Atividade7
 			
 		}
 	}	
-}
+
